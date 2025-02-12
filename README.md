@@ -2,7 +2,7 @@
 
 ### Dear visitor,
 
-Nothing to gain for you here,
+Nothing to gain for you here.
 
 Unless, of course, you’re an anthropologist with a soft spot for mental 'special effects.'
 
