@@ -23,6 +23,10 @@ node index.js
 
 check <http://localhost:5000/api>
 
+creates:
+
+![alt text](./backend.png)
+
 ## 2. Set Up the Frontend with React + Vite
 
 ```bash
@@ -32,7 +36,7 @@ npm create vite@latest frontend -- --template react
 
 creates:
 
-![alt text](image.png)
+![alt text](./image.png)
 
 ```bash
 # cd frontend; install dependencies
@@ -41,7 +45,7 @@ npm i
 
 adds node modules to frontend:
 
-![alt text](image-1.png)
+![alt text](./node_modules.png)
 
 ```bash
 # App working? Check frontend development server by
